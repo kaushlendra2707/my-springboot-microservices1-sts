@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootSSLClient name
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Kaushi
+Implementation-Vendor-Id: project.maven.springbootsslclient
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootSSLClient
+Created-By: Maven Integration for Eclipse
+
