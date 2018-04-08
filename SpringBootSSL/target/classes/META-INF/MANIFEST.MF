@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootSSL name
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Kaushi
+Implementation-Vendor-Id: project.maven.ssl
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootSSL
+Created-By: Maven Integration for Eclipse
+
